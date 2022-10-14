@@ -5,8 +5,12 @@
 	border-color: black;
 	display: flex;
 	margin-left: auto;
-    margin-right: auto 
-	
+        margin-right: auto; 
+	transition: 1s;
+}
+.albums:hover{
+	width: 325px;
+	length: 325px;
 }
 body{
 	background-color: #FF8A8A;
